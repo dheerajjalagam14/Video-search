@@ -9,7 +9,7 @@
     "react-dom": "^16.8.4",
     "react-scripts": "2.1.8"
   },
-  "homepage": "https://dheerajjalagam14.github.io/Video-search",
+  "homepage": "https://dheerajjalagam14.github.io/Video-search/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
